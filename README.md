@@ -45,3 +45,5 @@ Here's a quick breakdown of a typical Generic Algorithm:
 
 
 The Genetic algorithm using a selection, crossover and mutation criterion progresses towards imcreasing the fitness_score or accuracy of the classifier with increasing generations.
+
+``` GA.py ``` is our initial draft of code for genetic algorithm, and ``` Genetic Algorithms.ipynb ``` is the ipynb file that contains all our experimental details and results.
